@@ -1,0 +1,8 @@
+  <ActionButtons
+        getAll={getAll}
+        getBig={getBig}
+        getSmall={getSmall}
+        getOdd={getOdd}
+        getEven={getEven}
+        getClear={getClear}
+    />
